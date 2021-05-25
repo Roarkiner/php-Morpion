@@ -1,7 +1,7 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../CSS/style.css">
     <title>Petit jeu de morpion</title>
 </head>
     <body>
